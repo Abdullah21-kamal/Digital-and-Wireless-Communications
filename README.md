@@ -1,4 +1,4 @@
-# Project Title: Digital and Wireless Communications in Information Theory
+# Project Title: Digital and Wireless Communications
 * We are simulating a 3G mobile communication system. We are going to send an audio signal using a transmitter. Pass the signal across different channels, and finally receive the signal using the receiver. 
 ## Description:
 
